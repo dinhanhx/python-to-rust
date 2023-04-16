@@ -35,20 +35,20 @@ Ok... [watch it later...](https://web.archive.org/web/20140806053203/https://www
 
 ## TOC
 
-- [Getting Started with Rust](https://github.com/rochacbruno/py2rs#getting-started-with-rust)
-- [Where to exercise](https://github.com/rochacbruno/py2rs#exercises)
-- [Where to be informed on news and updates](https://github.com/rochacbruno/py2rs#getting-updated)
-- [Interacting with Rustacean Communities](https://github.com/rochacbruno/py2rs#interact-with-other-rustaceans)
-- [Additional learning Resources](https://github.com/rochacbruno/py2rs#additional-learning-resources)
-- [Curious Facts](https://github.com/rochacbruno/py2rs#facts)
-- [py2rs: Glossary of terms](https://github.com/rochacbruno/py2rs#glossary-of-terms)
-- [py2rs: General fact comparison](https://github.com/rochacbruno/py2rs#general)
-- [py2rs: Environment Tools](https://github.com/rochacbruno/py2rs#environment-tools)
-- [py2rs: Libraries and Frameworks](https://github.com/rochacbruno/py2rs#libraries-and-frameworks)
-- [py2rs: Applications](https://github.com/rochacbruno/py2rs#applications)
-- [py2rs: Useful Crates](https://github.com/rochacbruno/py2rs#useful-crates)
-- [py2rs: Code comparison Python X Rust implementations](https://github.com/rochacbruno/py2rs#show-me-the-code)
-- [Credits](https://github.com/rochacbruno/py2rs#credits)
+- [Getting Started with Rust](#getting-started-with-rust)
+- [Where to exercise](#exercises)
+- [Where to be informed on news and updates](#getting-updated)
+- [Interacting with Rustacean Communities](#interact-with-other-rustaceans)
+- [Additional learning Resources](#additional-learning-resources)
+- [Curious Facts](#facts)
+- [Glossary of terms](#glossary-of-terms)
+- [General fact comparison](#general)
+- [Environment Tools](#environment-tools)
+- [Libraries and Frameworks](#libraries-and-frameworks)
+- [Applications](#applications)
+- [Useful Crates](#useful-crates)
+- [Code Comparison](CODE_COMPARISON.md)
+- [Acknowledgement](ACKNOWLEDGEMENT.md)
 
 ## Getting Started with Rust
 
