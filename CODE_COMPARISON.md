@@ -4,6 +4,28 @@ From **Python** to **Rust** by examples
 
 > You can  copy-paste and run the **Rust** examples in https://play.rust-lang.org/ and **Python** in https://repl.it/languages/python3 
 
+### Template for new examples
+
+Explanation comes here.
+
+**Python**
+
+[playground](https://repl.it/repls/uniquelinkhere)
+
+```python
+# python code goes here
+```
+
+**Rust**
+
+[playground](https://play.rust-lang.org/?gist=uniquehashhere&version=stable)
+
+```rust
+// rust code goes here
+```
+
+---
+
 
 ### Creating a new project
 
@@ -1054,24 +1076,3 @@ fn main() {
 ```
 
 ---
-
-
-### Template for new examples
-
-Explanation comes here.
-
-**Python**
-
-[playground](https://repl.it/repls/uniquelinkhere)
-
-```python
-# python code goes here
-```
-
-**Rust**
-
-[playground](https://play.rust-lang.org/?gist=uniquehashhere&version=stable)
-
-```rust
-// rust code goes here
-```
