@@ -98,6 +98,9 @@ Time to put your new knowledge in action solving some exercises.
 2) **Rust Playground**  
    Run Live Rust Code in the browser with https://play.rust-lang.org/
 
+3) **rustlings**  
+   Interactive rust exercises: https://github.com/rust-lang/rustlings 
+
 ## Getting updated
 
 Now I assume you are addicted to **Rust** and you want to be updated about everything 
@@ -935,7 +938,7 @@ except ValueError:
 **Rust**
 
 ```rust
-fn div(a: f64, b: f64) -> Result<f64, &'static str> {
+fn div(a: i32, b: i32) -> Result<i32, &'static str> {
     if b == 0 {
         Err("b can't be 0")
     } else {
